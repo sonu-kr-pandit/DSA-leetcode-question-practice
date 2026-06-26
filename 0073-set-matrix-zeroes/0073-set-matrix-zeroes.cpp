@@ -1,39 +1,48 @@
 class Solution {
 public:
-    // vector<vector<int>> cvtzero(vector<vector<int>>& matrix , vector<vector<int>>& temp , int row , int col){
-    //     int m = matrix.size();
-    //     int n = matrix[0].size();
-    //     for(int i= 0 ; i<m ; i++){
-    //         matrix[i][col] == 0;
-    //     }
-    //      for(int j = 0 ; j <n ; j++){
-    //         matrix[row][j] == 0;
-    //     }
-    //     return  matrix;
-
-    // }
+ 
     void setZeroes(vector<vector<int>>& matrix) {
         int m = matrix.size();
         int n = matrix[0].size();
-        vector<vector<int>> temp(m , vector<int> (n));
-        for(int i = 0 ; i< m ; i++){
-            for(int j =  0 ; j<n ; j++){
-                temp[i][j] = matrix[i][j];
-            }
+
+        bool frowzero = false;
+        bool fcolzero = false;
+
+        for(int i = 0 ; i< n ; i++){
+            if(matrix[0][i]==0){frowzero = true;}
         }
-        for(int i = 0 ; i< m ; i++){
-            for(int j =  0 ; j<n ; j++){
-                if(matrix[i][j]==0 && temp[i][j] == 0){
-                    for(int row= 0 ; row<m ; row++){
-                         matrix[row][j] = 0;
-                     }
-                    for(int col = 0 ; col <n ; col++){
-                        matrix[i][col] = 0;
-                     }
-                   
+        for(int  j= 0 ; j< m ; j++){
+            if(matrix[j][0]==0){fcolzero = true;}
+        }
+
+        for(int i = 1 ; i <m ; i++){
+            for(int j = 1 ; j < n ; j++){
+                if(matrix[i][j]==0){
+                    matrix[0][j]=0;
+                    matrix[i][0] =0;
                 }
             }
         }
+        for(int i = 1 ; i <m ; i++){
+            for(int j = 1 ; j < n ; j++){
+                if(matrix[i][0] ==0 || matrix[0][j] == 0){
+                    matrix[i][j]=0;
+                }
+            }
+        }
+
+       if(frowzero){
+            for(int j = 0 ; j < n ; j++){
+               matrix[0][j] = 0;
+            }
+       }
+
+       if(fcolzero){
+            for(int i = 0  ; i < m ; i++){
+               matrix[i][0] = 0;
+            }
+       }
+        
         
     }
 };
