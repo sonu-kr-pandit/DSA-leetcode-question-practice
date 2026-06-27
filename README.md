@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0344-reverse-string) |
