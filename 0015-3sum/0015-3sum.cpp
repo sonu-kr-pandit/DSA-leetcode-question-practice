@@ -15,8 +15,8 @@ public:
                     st++;
                     end--;
                     // break;
-                    while(st < end && nums[st] == nums[st-1]) st++;
-                    while(st < end && nums[end] == nums[end+1]) end--;
+                    while(st < end && nums[st] == nums[st-1]) {st++;}
+                    while(st < end && nums[end] == nums[end+1]) {end--;}
                 }
                 else if(currsum < 0 ){
                     st++;
