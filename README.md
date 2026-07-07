@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0179-largest-number) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0231-power-of-two) |
