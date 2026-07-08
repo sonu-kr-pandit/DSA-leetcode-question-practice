@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1051-height-checker) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0389-find-the-difference) |
 | [0680-valid-palindrome-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0709-to-lower-case) |
 | [1903-largest-odd-number-in-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1903-largest-odd-number-in-string) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0389-find-the-difference) |
 ## Recursion
 |  |
 | ------- |
