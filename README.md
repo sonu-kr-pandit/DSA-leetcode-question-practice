@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0389-find-the-difference) |
+| [1009-complement-of-base-10-integer](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1009-complement-of-base-10-integer) |
 ## Recursion
 |  |
 | ------- |
