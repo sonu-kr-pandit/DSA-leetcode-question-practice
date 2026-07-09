@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0136-single-number) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0190-reverse-bits) |
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0342-power-of-four) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
