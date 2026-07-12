@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0278-first-bad-version) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -215,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0509-fibonacci-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
