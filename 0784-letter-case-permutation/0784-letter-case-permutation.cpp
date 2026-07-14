@@ -10,16 +10,15 @@ public:
         if(isalpha(s[i])) {
             char original = s[i];
 
-            
+            // lower
             s[i] = tolower(original);
             solve(s, ans, i+1);
 
-            // uppercase branch
+            // upperc
             s[i] = toupper(original);
             solve(s, ans, i+1);
 
-            // restore (important)
-            s[i] = original;
+            // s[i] = original;
         }
         else {
             solve(s, ans, i+1);
