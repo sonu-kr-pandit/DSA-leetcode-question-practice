@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0790-domino-and-tromino-tiling](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0790-domino-and-tromino-tiling) |
 ## Depth-First Search
 |  |
 | ------- |
