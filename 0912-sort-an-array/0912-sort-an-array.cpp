@@ -1,9 +1,9 @@
 class Solution {
 public:
-
     void merge(vector<int> &nums, int si , int mid , int ei){
-        vector<int> temp;
         int i =si , j = mid+1;
+         vector<int> temp;
+
         while(i<=mid && j<=ei ){
             if(nums[i]<=nums[j]){
                 temp.push_back(nums[i++]);
