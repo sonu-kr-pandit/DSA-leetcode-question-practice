@@ -13,10 +13,10 @@ public:
             if (nums[mid] == k) {
                 return true;
             }
-            if(nums[st] == nums[mid]){
-        st++;           // only shrink from the left, one step
-        continue;
-    }
+            if (nums[st] == nums[mid]) {
+                st++; 
+                continue;
+            }
             if (nums[st] <= nums[mid]) {
                 if (nums[st] <= k && k < nums[mid]) {
                     end = mid - 1;
