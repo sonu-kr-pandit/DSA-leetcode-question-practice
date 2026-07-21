@@ -6,7 +6,7 @@ public:
         //     if(nums[i]==k){return true;}
         // }
 
-        int st = 0; // binay TC
+        int st = 0;                      // binay TC
         int end = n - 1;
         while (st <= end) {
             int mid = st + (end - st) / 2;
