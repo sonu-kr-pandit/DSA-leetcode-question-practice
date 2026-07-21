@@ -18,7 +18,6 @@ public:
             nums[si + k] = temp[k];
         }
     }
-
     void MergeSort(vector<int> &nums , int si , int ei){
         if(si>=ei){return ;}
         int mid = si + (ei-si)/2;    
