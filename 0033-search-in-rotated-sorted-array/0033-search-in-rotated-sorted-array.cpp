@@ -2,13 +2,13 @@ class Solution {
 public:
     int search(vector<int>& nums, int k) {
         int n = nums.size();
-        // for(int i = 0 ; i<= n-1; i++){
+        // for(int i = 0 ; i<= n-1; i++){      // linear TC
         //     if(nums[i]==k){return i;}
         // }
 
 
 
-        int st =0;
+        int st =0;                        // binay TC
         int end = n-1;
         while(st<=end){
             int mid = st +(end-st)/2;
