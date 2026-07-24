@@ -5,7 +5,7 @@ public:
         vector<int> ans(n, 0);
         vector<pair<int,int>> v;
 
-        // store value + original index
+
         for(int i = 0; i < n; i++){
             v.push_back({nums[i], i});
         }
