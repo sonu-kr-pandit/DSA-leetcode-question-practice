@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0344-reverse-string) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0912-sort-an-array) |
 ## Quickselect
@@ -277,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
