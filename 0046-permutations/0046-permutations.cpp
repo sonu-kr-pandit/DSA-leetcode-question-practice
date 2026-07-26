@@ -1,6 +1,6 @@
 class Solution {
 public:
-      unordered_set<int> s;
+    unordered_set<int> s;
     vector<vector<int>> ans;
 
     void solve(vector<int>& nums, vector<int>& temp) {
