@@ -1,18 +1,11 @@
 class Solution {
 public:
-
     bool isValid(int r , int c , int dgt , vector<vector<char>>& board){
-        // vertically
+        // vertically and horizontal
         for(int i = 0 ; i<9 ; i++){
             if(board[i][c]==dgt){return false;}
              if(board[r][i]==dgt){return false;}
         }
-
-        // horizontal
-        // for(int i = 0 ; i<9 ; i++){
-        //     if(board[r][i]==dgt){return false;}
-        // }
-
         // 3x3 grid board
         int strow = (r/3)*3;
         int stcol = (c/3)*3;
@@ -27,9 +20,7 @@ public:
         return true;
 
     }
-
-
-    bool solution(vector<vector<char>>& board){
+   bool solution(vector<vector<char>>& board){
         for(int i = 0 ; i < 9 ; i++){
             for(int j = 0 ; j < 9 ; j++){
                 if(board[i][j] == '.'){
@@ -49,7 +40,6 @@ public:
         return true;
 
     }
-
     void solveSudoku(vector<vector<char>>& board) {
         solution(board);
         
