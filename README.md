@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0118-pascals-triangle) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0242-valid-anagram) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1572-matrix-diagonal-sum) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0079-word-search) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0090-subsets-ii) |
 | [0784-letter-case-permutation](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0784-letter-case-permutation) |
 ## Memoization
