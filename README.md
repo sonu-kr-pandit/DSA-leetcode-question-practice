@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0342-power-of-four) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0876-middle-of-the-linked-list) |
