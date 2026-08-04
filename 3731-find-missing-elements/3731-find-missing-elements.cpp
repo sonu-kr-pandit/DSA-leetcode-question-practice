@@ -8,15 +8,12 @@ public:
     }
     vector<int> findMissingElements(vector<int>& nums) {
         vector<int> ans;
-        // sort(nums.begin() , nums.end());
         int mint = INT_MAX;
         int maxt = INT_MIN;
         for(int i =0;i < nums.size() ; i++){
             mint = min(mint , nums[i]);
             maxt = max(maxt , nums[i]);
         }
-        // int tgt = nums[0] +1 ;
-        // int i = 0;
         int tgt = mint + 1;
         while(tgt < maxt){
             if(isPresent(nums  , tgt)==false){
