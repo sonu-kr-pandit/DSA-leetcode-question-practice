@@ -12,7 +12,7 @@ public:
         ListNode* tempA = headA;
         ListNode* tempB = headB;
         int cA = 0 , cB = 0;
-        while(tempA != NULL){
+        while(tempA != NULL ){
             tempA = tempA->next;
             cA++;
         }
@@ -21,18 +21,16 @@ public:
             cB++;
         }
 
-        int stp = abs(cA-cB);
-
-
         ListNode* nTA = headA;
         ListNode* nTB = headB;
+
         if(cB > cA){
-            for(int i = 0 ; i<stp ; i++){
+            for(int i = 0 ; i< abs(cA-cB) ; i++){
                 nTB = nTB->next;
             }
 
         }else{
-             for(int i = 0 ; i<stp ; i++){
+             for(int i = 0 ; i< abs(cA-cB); i++){
                 nTA = nTA->next;
             }
         }
