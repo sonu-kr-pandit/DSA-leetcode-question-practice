@@ -10,51 +10,68 @@
  */
 class Solution {
 public:
-    ListNode* findMid(ListNode* head) {
+
+    ListNode* SplitMid(ListNode* head){
         ListNode* slow = head;
-        ListNode* fast = head->next;  
-    
-        while(fast != NULL && fast->next != NULL) {
+         ListNode* fast = head;
+          ListNode* prev = NULL;
+          while(fast != NULL && fast->next != NULL){
+            prev = slow;
             slow = slow->next;
             fast = fast->next->next;
         }
-        return slow; 
-    }
-
-    ListNode* merge(ListNode* left, ListNode* right) {
-        if(left == NULL) return right;
-        if(right == NULL) return left;
-
-        ListNode* dummy = new ListNode(-1);
-        ListNode* curr = dummy;
-
-        while(left != NULL && right != NULL) {
-            if(left->val <= right->val) {
-                curr->next = left;
-                left = left->next;
-            } else {
-                curr->next = right;
-                right = right->next;
-            }
-            curr = curr->next;
+        if(prev != NULL){
+            prev->next = NULL;
         }
+        return slow;
 
-        if(left != NULL) curr->next = left;
-        if(right != NULL) curr->next = right;
-
-        return dummy->next;
     }
-    ListNode* sortList(ListNode* head) {
-        if(head == NULL || head->next == NULL)
-            return head;
-        ListNode* mid = findMid(head);
-        ListNode* left = head;
-        ListNode* right = mid->next;
-        mid->next = NULL; 
-        left = sortList(left);
-        right = sortList(right);
 
+     ListNode* MergeSort( ListNode* Lhead ,  ListNode* Rhead){
+        ListNode dummy(0);
+        ListNode* tail = &dummy;
     
-        return merge(left, right);
+         ListNode* i = Lhead;
+          ListNode* j = Rhead;
+         while(i != NULL && j != NULL){
+
+            if(i->val <= j->val){
+                tail->next = i;
+                i = i->next;
+            }else{
+                tail->next = j;
+                j = j->next;
+            }
+            tail = tail->next;
+        }
+        while( i!= NULL){
+            tail->next = i;
+                i = i->next;
+                tail = tail->next;
+        }
+        while(j !=  NULL){
+            tail->next = j;
+                j = j->next;
+                tail = tail->next;
+        }
+        // return ans;
+
+        // if(i != NULL) tail->next = i;
+        // else tail->next = j;
+
+        return dummy.next;
+     }
+
+    ListNode* sortList(ListNode* head) {
+
+        if(head == NULL || head->next ==NULL){return head;}
+         ListNode* Rhead = SplitMid(head);
+
+          ListNode* left = sortList(head);
+           ListNode* right = sortList(Rhead);
+
+           return MergeSort(left , right);
+
+        
     }
 };
