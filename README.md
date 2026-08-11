@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1922-count-good-numbers) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0707-design-linked-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0876-middle-of-the-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -378,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
