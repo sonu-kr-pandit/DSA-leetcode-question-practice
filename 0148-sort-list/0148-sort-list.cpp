@@ -54,10 +54,6 @@ public:
                 j = j->next;
                 tail = tail->next;
         }
-        // return ans;
-
-        // if(i != NULL) tail->next = i;
-        // else tail->next = j;
 
         return dummy.next;
      }
