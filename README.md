@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0203-remove-linked-list-elements) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0146-lru-cache) |
 | [0707-design-linked-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0707-design-linked-list) |
 ## Game Theory
 |  |
@@ -373,5 +376,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
