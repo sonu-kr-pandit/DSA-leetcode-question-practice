@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0125-valid-palindrome) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0234-palindrome-linked-list) |
@@ -396,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0023-merge-k-sorted-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
