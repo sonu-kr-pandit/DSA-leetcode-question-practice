@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1903-largest-odd-number-in-string) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0680-valid-palindrome-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1903-largest-odd-number-in-string) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -404,4 +407,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0020-valid-parentheses) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->
