@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0119-pascals-triangle-ii) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0234-palindrome-linked-list) |
@@ -416,6 +418,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0503-next-greater-element-ii) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
