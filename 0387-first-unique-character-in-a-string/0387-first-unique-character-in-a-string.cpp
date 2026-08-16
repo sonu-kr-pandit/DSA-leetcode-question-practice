@@ -3,7 +3,7 @@ public:
     int firstUniqChar(string str) {
         queue<char> q,q1;
         int freq[26] = {0};
-        for(int i =0; i<str.size();i++){
+        for(int i = 0; i<str.size();i++){
             char ch = str[i];
             q.push(ch);
             freq[str[i]-'a']++;
