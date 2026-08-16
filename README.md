@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0496-next-greater-element-i](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0503-next-greater-element-ii) |
+| [0622-design-circular-queue](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0877-stone-game) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0622-design-circular-queue) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0622-design-circular-queue](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0876-middle-of-the-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0707-design-linked-list) |
 ## Game Theory
 |  |
