@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0912-sort-an-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1903-largest-odd-number-in-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Bucket Sort
