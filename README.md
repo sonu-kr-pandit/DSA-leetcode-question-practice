@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0455-assign-cookies](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0622-design-circular-queue) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1051-height-checker) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0455-assign-cookies](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0179-largest-number) |
+| [0455-assign-cookies](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1903-largest-odd-number-in-string) |
@@ -440,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0084-largest-rectangle-in-histogram) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
