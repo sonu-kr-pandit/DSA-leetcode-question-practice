@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0435-non-overlapping-intervals](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0503-next-greater-element-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0860-lemonade-change) |
