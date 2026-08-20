@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0074-search-a-2d-matrix) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0119-pascals-triangle-ii) |
