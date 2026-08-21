@@ -13,7 +13,7 @@ public:
         for (int i = 1; i < n; i++) {
             if (intervals[i][0] >= last_element) {
                 cnt++;
-                last_element = intervals[i][1]; // ✅ FIXED
+                last_element = intervals[i][1]; 
             }
         }
 
