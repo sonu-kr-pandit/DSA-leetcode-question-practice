@@ -479,4 +479,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0646-maximum-length-of-pair-chain) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
