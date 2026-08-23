@@ -482,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0182-duplicate-emails) |
 | [0595-big-countries](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0595-big-countries) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
