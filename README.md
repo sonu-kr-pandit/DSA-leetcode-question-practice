@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0278-first-bad-version) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0342-power-of-four) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
@@ -521,5 +524,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
