@@ -19,8 +19,23 @@ public:
         return solve(p->left, q->left) && solve(p->right, q->right);
         
     }
-    bool solution( TreeNode* root, TreeNode* subRoot ){
-        if(root!= NULL && subRoot != NULL){
+    // bool solution( TreeNode* root, TreeNode* subRoot ){
+    //     if(root!= NULL && subRoot != NULL){
+    //          if(root->val == subRoot->val){
+    //             if(solve(root->left , subRoot->left) && solve(root->right , subRoot->right)){
+    //                 return true;
+    //             }
+    //          }
+    //     }
+    //     if(root == NULL || subRoot == NULL){
+    //         return false; 
+    //     }
+    //     return solution(root->left , subRoot) || solution(root->right , subRoot);
+    // }
+
+    bool isSubtree(TreeNode* root, TreeNode* subRoot) {
+
+         if(root!= NULL && subRoot != NULL){
              if(root->val == subRoot->val){
                 if(solve(root->left , subRoot->left) && solve(root->right , subRoot->right)){
                     return true;
@@ -30,10 +45,7 @@ public:
         if(root == NULL || subRoot == NULL){
             return false; 
         }
-        return solution(root->left , subRoot) || solution(root->right , subRoot);
-    }
-
-    bool isSubtree(TreeNode* root, TreeNode* subRoot) {
-        return solution(root , subRoot);
+        return isSubtree(root->left , subRoot) || isSubtree(root->right , subRoot);
+        // return solution(root , subRoot);
     }
 };
