@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1051-height-checker) |
+| [1110-delete-nodes-and-return-forest](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1110-delete-nodes-and-return-forest) |
 | [1200-minimum-absolute-difference](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1200-minimum-absolute-difference) |
 | [1480-running-sum-of-1d-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1572-matrix-diagonal-sum) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0621-task-scheduler) |
+| [1110-delete-nodes-and-return-forest](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1110-delete-nodes-and-return-forest) |
 | [3731-find-missing-elements](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0572-subtree-of-another-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1110-delete-nodes-and-return-forest](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1110-delete-nodes-and-return-forest) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0572-subtree-of-another-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1110-delete-nodes-and-return-forest) |
 ## Binary Tree
 |  |
 | ------- |
@@ -558,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0572-subtree-of-another-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1110-delete-nodes-and-return-forest) |
 ## String Matching
 |  |
 | ------- |
