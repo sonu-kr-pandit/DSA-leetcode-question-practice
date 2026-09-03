@@ -12,30 +12,30 @@
 class Solution {
 public:
 
-    bool presentAreNot(TreeNode* node){
+    // bool presentAreNot(TreeNode* node){
 
-        if(node == NULL){return false;}
+    //     if(node == NULL){return false;}
         
-        if(node->val ==  1){return true;}
+    //     if(node->val ==  1){return true;}
 
-       return  presentAreNot(node->left) || presentAreNot(node->right);        
+    //    return  presentAreNot(node->left) || presentAreNot(node->right);        
 
-    }
+    // }
 
     TreeNode* pruneTree(TreeNode* root) {
 
         if(root == NULL) return NULL;
 
-        if(!presentAreNot(root->left)){
-            root->left = NULL;
-        }
+        // if(!presentAreNot(root->left)){
+        //     root->left = NULL;
+        // }
         
-        if(!presentAreNot(root->right)){
-            root->right = NULL;
-        }
+        // if(!presentAreNot(root->right)){
+        //     root->right = NULL;
+        // }
 
-        pruneTree(root->left);
-        pruneTree(root->right);
+        root->left =  pruneTree(root->left);
+        root->right = pruneTree(root->right);
 
         if(root->left == NULL && root->right == NULL && root->val == 0) return NULL;
 
