@@ -12,8 +12,7 @@ public:
         return maxIS - minIS ;
     }
     int firstStableIndex(vector<int>& nums, int k) {
-
-        // method 1 ,TC = O(N^2); brute force method
+        // **********method 1 ,TC = O(N^2); brute force method****************//
         // vector<int> ans;
         // for(int i = 0 ; i< nums.size();  i++){
         //     int IS = solution(nums , i);
@@ -25,8 +24,7 @@ public:
         //     }
         // }
         // return -1;
-
-        // method 2 , TC = O(N) ;
+        //************* method 2 , TC = O(N) ; *****************************//
 
         vector<int> minEL(nums.size());
         int minIND = INT_MAX;
@@ -34,9 +32,7 @@ public:
             minIND = min(nums[i] , minIND);
             minEL[i] = minIND;
         }
-
         int Max = INT_MIN;
-
         for(int i = 0 ; i< nums.size() ; i++){
             Max = max(Max , nums[i]);
             int Min = minEL[i];
