@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1051-height-checker](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1051-height-checker) |
 | [1110-delete-nodes-and-return-forest](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1110-delete-nodes-and-return-forest) |
 | [1200-minimum-absolute-difference](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1200-minimum-absolute-difference) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0739-daily-temperatures) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0739-daily-temperatures) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1110-delete-nodes-and-return-forest) |
 ## Binary Tree
@@ -590,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1110-delete-nodes-and-return-forest) |
 ## String Matching
@@ -616,4 +621,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0700-search-in-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
