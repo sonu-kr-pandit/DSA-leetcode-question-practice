@@ -19,7 +19,6 @@ public:
             ans+=root->val;
         }
         inorder(root->right , low , high);
-
     }
     int rangeSumBST(TreeNode* root, int low, int high) {
         inorder(root , low , high);
