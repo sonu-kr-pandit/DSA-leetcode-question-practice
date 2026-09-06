@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0242-valid-anagram) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0338-counting-bits) |
