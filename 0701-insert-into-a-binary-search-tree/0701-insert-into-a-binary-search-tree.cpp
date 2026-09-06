@@ -19,7 +19,6 @@ public:
 
         if(root->val > val){
             root->left = solution(root->left , val);
-            return root;
         }else{
             root->right = solution(root->right , val);
         }
