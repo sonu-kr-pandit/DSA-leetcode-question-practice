@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0814-binary-tree-pruning](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0872-leaf-similar-trees) |
+| [0938-range-sum-of-bst](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0938-range-sum-of-bst) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1110-delete-nodes-and-return-forest) |
 ## Breadth-First Search
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0872-leaf-similar-trees) |
+| [0938-range-sum-of-bst](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0872-leaf-similar-trees) |
+| [0938-range-sum-of-bst](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -629,5 +632,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
