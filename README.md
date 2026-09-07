@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0709-to-lower-case) |
 | [0784-letter-case-permutation](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0784-letter-case-permutation) |
+| [0940-distinct-subsequences-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1903-largest-odd-number-in-string) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0790-domino-and-tromino-tiling](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0940-distinct-subsequences-ii) |
 ## Depth-First Search
 |  |
 | ------- |
