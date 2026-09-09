@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0404-sum-of-left-leaves) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0257-binary-tree-paths) |
 | [0784-letter-case-permutation](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0784-letter-case-permutation) |
 ## Memoization
 |  |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -595,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0515-find-largest-value-in-each-tree-row) |
