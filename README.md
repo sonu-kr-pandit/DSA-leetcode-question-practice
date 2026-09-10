@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0938-range-sum-of-bst) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1110-delete-nodes-and-return-forest) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1110-delete-nodes-and-return-forest) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1110-delete-nodes-and-return-forest) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## String Matching
 |  |
 | ------- |
