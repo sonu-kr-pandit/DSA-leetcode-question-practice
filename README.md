@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0278-first-bad-version) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0790-domino-and-tromino-tiling](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Depth-First Search
 |  |
 | ------- |
