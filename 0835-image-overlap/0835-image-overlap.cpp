@@ -10,14 +10,13 @@ public:
                 if (img2[i][j] == 1) ones2.push_back({i, j});
             }
 
-        unordered_map<int, int> count; // encode (dx,dy) as single int
+        unordered_map<int, int> count; 
         int best = 0;
-
         for (auto& p1 : ones1) {
             for (auto& p2 : ones2) {
                 int dx = p2.first - p1.first;
                 int dy = p2.second - p1.second;
-                int key = (dx + n) * 200 + (dy + n); // safe encoding
+                int key = (dx + n) * 200 + (dy + n); 
                 count[key]++;
                 best = max(best, count[key]);
             }
