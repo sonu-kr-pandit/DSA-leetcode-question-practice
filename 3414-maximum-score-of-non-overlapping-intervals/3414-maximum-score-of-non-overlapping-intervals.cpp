@@ -2,14 +2,11 @@ class Solution {
 public:
     int n;
     vector<int> nextIdx;
-
     struct Node {
         long long score = -1;
         vector<int> idxs;
     };
-
     vector<vector<Node>> t;
-
     int findNext(vector<vector<int>>& intervals, int r) {
         int lo = 0, hi = n - 1;
         int result = n;
@@ -24,7 +21,6 @@ public:
         }
         return result;
     }
-
     vector<int> maximumWeight(vector<vector<int>>& intervals) {
         n = intervals.size();
 
