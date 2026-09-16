@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0680-valid-palindrome-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0860-lemonade-change) |
+| [1382-balance-a-binary-search-tree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1903-largest-odd-number-in-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1903-largest-odd-number-in-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Bucket Sort
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0912-sort-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0938-range-sum-of-bst) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1110-delete-nodes-and-return-forest) |
+| [1382-balance-a-binary-search-tree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -609,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1110-delete-nodes-and-return-forest) |
+| [1382-balance-a-binary-search-tree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -649,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1110-delete-nodes-and-return-forest) |
+| [1382-balance-a-binary-search-tree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## String Matching
 |  |
@@ -686,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Enumeration
 |  |
 | ------- |
