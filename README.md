@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0877-stone-game) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1903-largest-odd-number-in-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1922-count-good-numbers) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
