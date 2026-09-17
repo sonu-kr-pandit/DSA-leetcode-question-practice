@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0075-sort-colors) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0342-power-of-four) |
