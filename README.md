@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1046-last-stone-weight) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0912-sort-an-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1200-minimum-absolute-difference) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1046-last-stone-weight) |
 ## Shortest Path
 |  |
@@ -367,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0973-k-closest-points-to-origin) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1903-largest-odd-number-in-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1903-largest-odd-number-in-string) |
@@ -464,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -717,4 +723,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0703-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
