@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1046-last-stone-weight](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1051-height-checker) |
 | [1110-delete-nodes-and-return-forest](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1110-delete-nodes-and-return-forest) |
 | [1200-minimum-absolute-difference](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1200-minimum-absolute-difference) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1046-last-stone-weight) |
 ## Shortest Path
 |  |
 | ------- |
