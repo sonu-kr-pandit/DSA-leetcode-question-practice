@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0239-sliding-window-maximum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Greedy
 |  |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0621-task-scheduler) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0622-design-circular-queue) |
 ## Prefix Sum
@@ -592,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0239-sliding-window-maximum) |
 ## Quicksort
 |  |
 | ------- |
@@ -747,4 +752,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0973-k-closest-points-to-origin) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
