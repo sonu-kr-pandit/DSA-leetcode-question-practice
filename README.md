@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0622-design-circular-queue) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0646-maximum-length-of-pair-chain) |
+| [0705-design-hashset](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0835-image-overlap) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0705-design-hashset](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0706-design-hashmap) |
 | [1110-delete-nodes-and-return-forest](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1110-delete-nodes-and-return-forest) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0622-design-circular-queue](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0622-design-circular-queue) |
+| [0705-design-hashset](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0876-middle-of-the-linked-list) |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0622-design-circular-queue) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0707-design-linked-list) |
 ## Game Theory
@@ -710,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0706-design-hashmap) |
 ## DP on Trees
 |  |
