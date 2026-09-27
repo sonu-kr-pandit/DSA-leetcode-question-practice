@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0055-jump-game) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0164-maximum-gap) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0125-valid-palindrome) |
