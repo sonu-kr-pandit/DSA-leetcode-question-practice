@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0435-non-overlapping-intervals](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0680-valid-palindrome-ii) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0496-next-greater-element-i) |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0278-first-bad-version) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
