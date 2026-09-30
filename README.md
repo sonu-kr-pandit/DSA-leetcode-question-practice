@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0137-single-number-ii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0146-lru-cache) |
@@ -797,4 +799,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0229-majority-element-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
