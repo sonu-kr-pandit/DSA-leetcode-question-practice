@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0503-next-greater-element-ii) |
+| [0525-contiguous-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0622-design-circular-queue) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0646-maximum-length-of-pair-chain) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0705-design-hashset) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0525-contiguous-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/3904-smallest-stable-index-ii) |
