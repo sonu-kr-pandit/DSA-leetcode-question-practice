@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0622-design-circular-queue) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0646-maximum-length-of-pair-chain) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0705-design-hashset) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sonu-kr-pandit/DSA-leetcode-question-practice/tree/master/3904-smallest-stable-index-ii) |
